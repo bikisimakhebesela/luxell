@@ -1,4 +1,5 @@
 var name= prompt("enter your name");
+alert("welcome "+name);
 var sn = document.getElementById("suf");
 var ln = document.getElementById("lif");
 var ws = document.getElementById("workspace");
