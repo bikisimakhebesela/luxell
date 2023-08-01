@@ -1,3 +1,4 @@
+var name= prompt("enter your name");
 var sn = document.getElementById("suf");
 var ln = document.getElementById("lif");
 var ws = document.getElementById("workspace");
@@ -12,4 +13,4 @@ pdb.addEventListener('click' ,function (){
     op.style.display="block";
     //ln.style.display="block";
 } );
-var name= prompt("enter your name");
+
